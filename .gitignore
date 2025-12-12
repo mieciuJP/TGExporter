@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Project Specific - PRIVATE DATA
+exporter_session.session
+exporter_session.session-journal
+config.tge
+export/
+
+# User Configuration (API Keys)
+config.py
