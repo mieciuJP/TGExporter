@@ -2,14 +2,14 @@
 
 Prosta i dostępna aplikacja desktopowa do eksportowania historii czatów, zdjęć, wiadomości głosowych i plików z Telegrama.
 
-Aplikacja została zaprojektowana z myślą o dostępności (Screen Readers) oraz wygodzie użytkowania, wykorzystując natywne kontrolki systemu Windows.
+Aplikacja została zaprojektowana z myślą o dostępności oraz wygodzie użytkowania, wykorzystując natywne kontrolki systemu Windows.
 
 ## Funkcje
 
 *   **Eksport Selektywny:** Wybierz konkretne czaty oraz typy danych do pobrania (Tekst, Zdjęcia, Głosówki, Wideo, Pliki).
-*   **Filtrowanie Nadawcy:** Przy eksporcie pojedynczego czatu możesz wybrać, aby pobrać wiadomości tylko od konkretnej osoby (np. tylko swoje głosówki).
+*   **Filtrowanie Nadawcy:** Przy eksporcie pojedynczego czatu możesz wybrać, aby pobrać wiadomości tylko od konkretnej osoby (np. tylko głosówki osoby z wybranego chatu z pominięciem twoich).
 *   **Bezpieczeństwo:** Opcja "Zapamiętaj mnie" szyfruje sesję logowania przy użyciu unikalnego identyfikatora sprzętowego (Windows Machine GUID). Plik konfiguracyjny nie zadziała na innym komputerze.
-*   **Dostępność:** Interfejs oparty na `wxPython` z pełną obsługą nawigacji klawiaturą (Listy z checkboxami).
+*   **Dostępność:** Interfejs oparty na `wxPython` z pełną obsługą nawigacji klawiaturą.
 
 ## Wymagania
 
