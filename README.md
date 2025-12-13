@@ -20,7 +20,7 @@ Aplikacja została zaprojektowana z myślą o dostępności oraz wygodzie użytk
 
 1.  Sklonuj repozytorium:
     ```bash
-    git clone https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/TGExporter.git
+    git clone https://github.com/mieciuJP/TGExporter.git
     cd TGExporter
     ```
 
