@@ -6,6 +6,15 @@ __pycache__/
 # Virtual Environment
 venv/
 env/
+.venv/
+
+# Build Artifacts
+dist/
+build/
+*.dist/
+*.build/
+*.onefile-build/
+*.exe
 
 # Project Specific - PRIVATE DATA
 exporter_session.session
